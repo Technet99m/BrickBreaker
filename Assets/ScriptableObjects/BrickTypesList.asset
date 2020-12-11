@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d84dbb526e172f4fbc5dc58af4f0a96, type: 3}
+  m_Name: BrickTypesList
+  m_EditorClassIdentifier: 
+  types:
+  - {fileID: 11400000, guid: d8888a6d486483542b3f728b8463e2b3, type: 2}
+  - {fileID: 11400000, guid: 9a306a64acddb4b4e9883e82e196cd0c, type: 2}
+  - {fileID: 11400000, guid: 2092b81cfd7841d418c12abd9410a7bf, type: 2}
+  - {fileID: 11400000, guid: c9537d6ed1f222f41964aad4b51fe2eb, type: 2}
